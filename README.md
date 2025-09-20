@@ -4,24 +4,27 @@
 
 ## Basic Details
 
-**Team Name:** [Your Team Name]
+**Team Name:** [Ctrl+Alt+Elite]
 
 ### Team Members
-- **Team Lead:** [Name] - [College]
-- **Member 2:** [Name] - [College]
-- **Member 3:** [Name] - [College]
+- **Team Lead:** [Irin mariya byju] - [Tkm college]
+- **Member 2:** [Fidha asma sulfeekhar] - [Tkm college]
+  
 
 ## Game Description
-[2-3 lines about what your game is, the genre, and what makes it fun or unique.]
+[This is a small 2D game made with Python and Pygame.]
 
 ## The Concept
-[Explain the core idea of the game—story, gameplay mechanics, or main objective.]
+[You play as the Hider who gets 5 seconds to run and hide.
+After that, the Seeker starts chasing you.
+If the Seeker catches you → Game Over.
+You can move with arrow keys, hide using Enter, and restart with R]
 
 ## Technical Details
 
 ### Technologies Used
-- **Languages:** [C#, Python, JavaScript, etc.]
-- **Game Engines/Frameworks:** [Unity, Unreal Engine, Godot, Phaser, etc.]
+- **Languages:** [ Python]
+- **Game Engines/Frameworks:** [pygame,github.]
 - **Libraries/Assets:** [Any relevant libraries, APIs, or assets used]
 - **Tools:** [Version control, graphic editors, sound tools, etc.]
 
@@ -40,19 +43,14 @@
 
 ### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 link)  
+![https://drive.google.com/drive/folders/1NUKz6Di0GRcGv0y6xmWNk1saeLHYH8rE?usp=sharing](Add screenshot 1 link)  
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 link)  
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 link)  
-*Add caption explaining what this shows*
 
 ### Game Demo
 
 #### Gameplay Video
-[Add link to gameplay video]  
+[https://drive.google.com/drive/folders/1NUKz6Di0GRcGv0y6xmWNk1saeLHYH8rE?usp=sharing]  
 
 ## Game Download / Deployment
 - **Playable Version / Download:** [Link to executable or archive]
